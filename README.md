@@ -12,7 +12,7 @@ I am a passionate developer focused on creating efficient, user-centric digital 
   **DevOps**: Managing repositories, CI/CD pipelines, and deployment strategies.
 - **Mentorship**: Sharing knowledge through technical writing and community support.
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Frontend | Backend | Tools & Others |
 |----------|---------|----------------|
@@ -33,11 +33,11 @@ A personal repository and portfolio hub.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=travisktimothy55-dev&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=travisktimothy55-dev&show_icons=true&theme=dark)
 
-## 📬 Connect With Me
+##  Connect With Me
 
-- 📧 **Email**: travisktimothy55@gmail.com
+-  **Email**: travisktimothy55@gmail.com
 
-## 🤝 Let's Collaborate
+##  Let's Collaborate
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
 
