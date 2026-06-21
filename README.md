@@ -1,16 +1,16 @@
 # tdev.ke
-# 👋 Hi there, I'm Timothy | tdevsolutions ke
+# Hi there, I'm Timothy | tdevsolutions ke
 
 > **Building scalable web solutions and developer tools in Kenya.**
 
 I am a passionate developer focused on creating efficient, user-centric digital experiences. Through **tdevsolutions.ke**, I specialize in full-stack development, automation, and open-source contributions.
 
-## 🚀 What I Do
+## What I Do
 
-- 💻 **Web Development**: Building responsive and fast websites using modern frameworks.
-- 🤖 **Automation**: Creating scripts and agents to streamline workflows.
-- 🛠 **DevOps**: Managing repositories, CI/CD pipelines, and deployment strategies.
-- 🎓 **Mentorship**: Sharing knowledge through technical writing and community support.
+- **Web Development**: Building responsive and fast websites using modern frameworks.
+-  **Automation**: Creating scripts and agents to streamline workflows.
+  **DevOps**: Managing repositories, CI/CD pipelines, and deployment strategies.
+- **Mentorship**: Sharing knowledge through technical writing and community support.
 
 ## 🛠 Tech Stack
 
@@ -20,7 +20,7 @@ I am a passionate developer focused on creating efficient, user-centric digital 
 | HTML5 & CSS3 | Python | Docker |
 | Tailwind CSS | Express | Linux / Bash |
 
-## 📂 Featured Projects
+##  Featured Projects
 
 ### tdev.ke
 A personal repository and portfolio hub.
@@ -28,7 +28,7 @@ A personal repository and portfolio hub.
 - **Link**: [View Repository](https://github.com/travisktimothy55-dev/tdev.ke)
 
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=travisktimothy55-dev&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=travisktimothy55-dev&show_icons=true&theme=dark)
